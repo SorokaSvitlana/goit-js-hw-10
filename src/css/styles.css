@@ -23,16 +23,11 @@ body {
 list-style: none;
 }
 
-.country-flag{
-  margin-right: 10px;
+.item {
   display: flex;
   align-items: center;
-  vertical-align: middle;
 }
 
-.country-name {
-  font-size: 20px;
-  font-weight: bold;
-  margin: 0;
-  margin-left: 5px;
+.country-flag {
+  margin-right: 10px;
 }
